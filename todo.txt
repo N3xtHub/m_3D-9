@@ -1,0 +1,4 @@
+Todo:
+-redo network system
+-console listening thread
+-server receive timeout
